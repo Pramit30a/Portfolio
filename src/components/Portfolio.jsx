@@ -30,8 +30,8 @@ const Portfolio = () => {
       id: 4,
       src: portfolio,
       desc: "I made this portfolio using reactjs and tailwind css and deployed with vercel.",
-      code: "",
-      demo: "",
+      code: "https://github.com/Pramit30a/Portfolio",
+      demo: "https://portfolio-lyart-six-15.vercel.app/",
     },
   ];
 
