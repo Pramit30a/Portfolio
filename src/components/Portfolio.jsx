@@ -8,7 +8,7 @@ const Portfolio = () => {
     {
       id: 1,
       src: fooddel,
-      desc: "A food delivery application used to order delisious foods from their favourite restaurants.",
+      desc: "A food delivery application used to order delicious foods from their favourite restaurants.",
       code: "https://github.com/Pramit30a/Food-Delivery-App",
       demo: "https://food-delivery-app-frontend-zrgl.onrender.com",
     },
